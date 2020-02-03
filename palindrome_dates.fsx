@@ -27,4 +27,3 @@ let print_date =
 palindrome_dates
 |> Seq.take 15
 |> Seq.iter print_date
-
